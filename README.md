@@ -53,7 +53,7 @@ To set up the project locally, follow these steps:
 
 4. Access the website locally by navigating to `http://localhost:3000` in your web browser.
 
-## Contribution
+## Contributions
 
 We welcome contributions to improve the website and add new features. To contribute, follow these guidelines:
 
