@@ -1,11 +1,5 @@
 /*
 
-[Master Stylesheet]
-
-Project Name: winku (HMTL Template)
-Version:    1.1
-Last change:  4/september/18
-
 ====INDEX=====
 
 01- general styling
@@ -64,13 +58,13 @@ body {
     margin: 0;
     padding: 0;
     overflow-x: hidden;
-    color: #545454;
+    color: #007bff;
 }
 
 p {
     font-size: 14px;
     line-height: 26px;
-    color: #8c8b8b;
+    color: #212529;
 }
 
 a,
@@ -292,7 +286,7 @@ section {
 .gray-bg {
     float: left;
     width: 100%;
-    background: #f4f2f2;
+    background:#1a0327;
 }
 
 [type="submit"],
@@ -639,7 +633,7 @@ header.sticky {
 /*--- topbar ---*/
 
 .topbar {
-    background: #fff;
+    background: #1a0327;
     display: block;
     height: 60px;
     padding: 0 48px;
@@ -687,7 +681,7 @@ header.sticky {
 }
 
 .top-area > ul > li > a {
-    color: #999;
+    color: #FEC53A;
 }
 
 .top-area .user-img {
@@ -801,7 +795,7 @@ header.sticky {
 }
 
 .timeline-info {
-    background: #fff none repeat scroll 0 0;
+    background: #1a0327 none repeat scroll 0 0;
     display: block;
     line-height: 59px;
     width: 100%;
@@ -1149,7 +1143,7 @@ header.sticky {
     position: relative;
     width: 100%;
     margin-bottom: 30px;
-    background: #fdfdfd;
+    background: #550381;
     border: 1px solid #ede9e9;
     border-radius: 3px;
 }
@@ -1168,7 +1162,7 @@ header.sticky {
 
 .sidebar .widget-title {
     background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
-    color: #424242;
+    color: #FEC53A;
     display: inline-block;
     font-size: 15px;
     font-weight: bold;
@@ -1276,8 +1270,8 @@ header.sticky {
 }
 
 .central-meta {
-    background: #fdfdfd none repeat scroll 0 0;
-    border: 1px solid #ede9e9;
+    background: #FEC53A none repeat scroll 0 0;
+    border: 1px solid #550381;
     border-radius: 3px;
     display: inline-block;
     width: 100%;
@@ -1383,7 +1377,7 @@ form button {
 }
 
 .friend-name > span {
-    color: #999;
+    color: hsl(220, 4%, 5%);
     float: left;
     font-size: 12px;
     /*text-transform: capitalize;*/
@@ -1884,7 +1878,7 @@ for some reason nth-child(1) is always busy and elements starting from 2 */
 }
 
 .coment-head > span {
-    color: #999;
+    color: #212529;
     font-size: 12px;
     padding-left: 10px;
     display: inline-block;
@@ -2066,7 +2060,7 @@ span.status.f-off {
 /*--- footer ---*/
 
 footer {
-    background: #fff;
+    background: #1a0327;
     float: left;
     padding: 75px 0;
     width: 100%;
@@ -2074,7 +2068,8 @@ footer {
 }
 
 footer::before {
-    background: rgba(0, 0, 0, 0) linear-gradient(to right, #ffffff 0%, #2fa7cd 50%, #ffffff 100%) repeat scroll 0 0;
+    /* background: rgba(0, 0, 0, 0) linear-gradient(to right, #ffffff 0%, #2fa7cd 50%, #ffffff 100%) repeat scroll 0 0; */
+    background: #1a0327;
     content: "";
     height: 5px;
     position: absolute;
@@ -4723,7 +4718,7 @@ canvas {
 }
 
 .top-area > ul.main-menu > li a {
-    color: #575b5f;
+    color: #FEC53A;
     font-size: 14px;
     font-weight: 700;
     text-transform: capitalize;
@@ -5335,7 +5330,7 @@ canvas {
 
 .top-search button {
     background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
-    color: #b6b6b6;
+    color: #FEC53A;
     font-size: 15px;
     position: absolute;
     right: 6px;
