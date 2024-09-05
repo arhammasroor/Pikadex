@@ -1,66 +1,111 @@
-# Pikadex
 
-Welcome to the **Pikadex** your ultimate productivity and task management platform! Pikadex helps you stay organized, manage your daily routines, track tasks, and collaborate effectively.
+<h1 align="center">Pikadex - Your Ultimate Productivity & Task Management Platform</h1>
 
-## Features
+<p align="center">
+  <strong>Stay organized, manage your daily routines, track tasks, and collaborate effectively with Pikadex.</strong>
+</p>
 
-1. **User Authentication**
-   - Users can sign up for a new account or log in to their existing account securely.
+<p align="center">
+  <a href="#features">Features</a> •
+  <a href="#installation">Installation</a> •
+  <a href="#contributions">Contributions</a>
+</p>
 
-2. **Profile Management**
-   - After successful login, users can personalize their profile by uploading profile and cover pictures.
+---
 
-3. **Daily Routine and Productivity Posts**
-   - Users can share updates about their daily routines, productivity schedules, or any relevant information.
-   - All registered users can view other users profile page.
+## 🚀 **Overview**
+Welcome to **Pikadex**, the all-in-one platform designed to enhance your productivity and streamline task management. From managing daily routines and tasks to collaborating in chat rooms, Pikadex provides a comprehensive suite of tools to help you stay on top of your goals and work efficiently.
 
-4. **Notifications**
-   - Users receive real-time notifications when someone likes their posts.
+---
 
-5. **Pomodoro Tool**
-   - Boost productivity using the built-in Pomodoro technique tool.
-   - Users can break down their work into intervals and take short breaks, improving focus and efficiency.
 
-6. **Task Management**
-   - Users can add and manage tasks, tracking the time taken to complete each task.
-   - Start and end timestamps are recorded to help analyze task durations.
+## 🛠️ **Tech Stack**
 
-7. **Chat Rooms**
-   - Engage in discussions with other users in various chat rooms.
-   - Share insights, daily schedules, or collaborate on assignments.
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20Bootstrap-blue" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express.js-green" alt="Backend" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-orange" alt="Database" />
+  <img src="https://img.shields.io/badge/Libraries-Socket.io-lightgrey" alt="Libraries" />
+</p>
 
-8. **Calendar**
-   - Users can schedule and track their events for the day or month using the calendar feature.
-   - Stay organized and plan ahead effectively.
 
-9. **Notes Application**
-   - Users can jot down important notes, ideas, or reminders in the notes application.
-   - Accessible only to the user after login.
+---
 
-10. **To-Do Application**
-    - Organize daily tasks effectively by assigning them to the to-do application.
-    - Helps users stay on top of their daily goals.
+## 🎥 Video Demonstration
 
-## Installation
+Check out the project in action: [Watch the Video](https://drive.google.com/file/d/16CoFFvhQR8lvdgOVZ-rLwMMDTwdzzuWT/view)
 
-To set up the project locally, follow these steps:
+---
 
-1. Clone the repository to your local machine.
+## ✨ **Features**
 
-2. Install the necessary dependencies.
+### 🔒 **User Authentication**
+- Secure sign-up and login options for a personalized experience.
 
-3. Start the development server.
+### 👤 **Profile Management**
+- Personalize your profile with custom profile and cover pictures.
 
-4. Access the website locally by navigating to `http://localhost:3000` in your web browser.
+### 📅 **Daily Routine and Productivity Posts**
+- Share updates on routines and productivity schedules.
+- View profiles and updates of other users.
 
-## Contributions
+### 🔔 **Notifications**
+- Receive real-time notifications when someone interacts with your posts.
 
-We welcome contributions to improve the website and add new features. To contribute, follow these guidelines:
+### ⏲️ **Pomodoro Tool**
+- Utilize the Pomodoro technique to break work into intervals with regular breaks, boosting productivity.
 
-1. Fork the repository and create a new branch from the `master` branch.
-2. Make your changes and test thoroughly.
-3. Create a pull request, describing the changes you've made.
+### ✅ **Task Management**
+- Add and manage tasks with start and end timestamps for tracking durations.
 
-Please ensure that your code adheres to the project's coding standards, and all new features are well-documented.
+### 💬 **Chat Rooms**
+- Engage in discussions and collaborate with other users across various chat rooms.
 
-Feel free to explore the code, use the website, and provide feedback. Happy productivity managing! 🚀
+### 📆 **Calendar**
+- Schedule and track your events with the integrated calendar feature.
+
+### 🗒️ **Notes Application**
+- Keep personal notes, ideas, and reminders organized and secure.
+
+### 📝 **To-Do Application**
+- Organize daily tasks and stay focused on your goals with the to-do app.
+
+---
+
+## 🛠️ **Installation**
+
+To set up **Pikadex** locally, follow these steps:
+
+1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/your-repository-link.git
+   ```
+2. **Install Dependencies**  
+   ```bash
+   npm install
+   ```
+3. **Start the Development Server**  
+   ```bash
+   npm start
+   ```
+4. **Access the Application :**
+   Navigate to http://localhost:3000 in your browser.
+
+## 🤝 **Contribution**
+
+We welcome all contributions to improve **Cryptex**! Whether you're fixing a bug, adding a new feature, or enhancing existing functionality, your efforts are highly appreciated.
+
+### **Fork the Repository**
+Fork the repository and clone it to your local machine:
+```bash
+git clone https://github.com/your-repository-link.git
+```
+### **Create a Branch**
+Create a new branch for your feature or fix:
+```bash
+git checkout -b feature-branch-name
+```
+### **Make Your Changes**
+Implement your changes and ensure everything is working properly by thoroughly testing them.
+### **Submit a Pull Request**
+Once you're satisfied with your changes, submit a PR with a clear and detailed description of what you've done.
