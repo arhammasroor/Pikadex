@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <h1 align="center">Pikadex - Your Ultimate Productivity & Task Management Platform</h1>
 
@@ -109,3 +110,7 @@ git checkout -b feature-branch-name
 Implement your changes and ensure everything is working properly by thoroughly testing them.
 ### **Submit a Pull Request**
 Once you're satisfied with your changes, submit a PR with a clear and detailed description of what you've done.
+=======
+# Pikadex
+productivity management
+>>>>>>> 618d53aed2b6283ccc49f215712c6cbbe57a0cb2
